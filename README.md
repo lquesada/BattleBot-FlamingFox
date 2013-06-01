@@ -11,6 +11,6 @@ In order to compile this bot mind, install sdcc and run
 
 	$ make
 
-The Makefile also contains sections for reading from a microcontroller, writing a microcontroller, and erasing a microcontroller using a SMT_1 recorder or similar.
+The Makefile also contains sections for reading from a microcontroller, writing a microcontroller, and erasing a microcontroller using a SMT1 burner or similar.
 
 
