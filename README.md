@@ -1,7 +1,7 @@
 BattleBot-FlamingFox
 ====================
 
-FlamingFox is a naive robot mind based on a PIC16F628A microcontroller and a MSx84 control board.
+FlamingFox is a naive robot mind based on a PIC16F628A microcontroller and a MSx84 control board.  
 Copyright (c) 2008-2009, Luis Quesada - https://github.com/lquesada and Manuel Martin - https://github.com/DraXus
 
 
